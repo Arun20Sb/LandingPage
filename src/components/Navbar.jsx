@@ -7,7 +7,7 @@ const Navbar = () => {
       <nav className="flex justify-between items-center px-6 py-4 md:px-12 backdrop-blur-md bg-black/30">
         {/* Logo */}
         <div className="text-white text-2xl font-bold tracking-wide">
-          YourLogo
+          HOM
         </div>
 
         {/* Nav Links */}

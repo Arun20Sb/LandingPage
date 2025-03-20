@@ -7,7 +7,7 @@ const Footer = () => {
         
         {/* Left - Logo or Name */}
         <div className="text-lg font-semibold text-white mb-4 md:mb-0">
-          YourBrand<span className="text-indigo-500">.</span>
+        HOM<span className="text-indigo-500">.</span>
         </div>
 
         {/* Center - Links */}
